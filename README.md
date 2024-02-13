@@ -12,7 +12,7 @@ git clone https://github.com/divyanshnama/ProductShowcaseApp.git
 
 # Navigate to the project directory
 
-cd product-showcase-app
+cd ProductShowcaseApp
 
 # Install dependencies
 
